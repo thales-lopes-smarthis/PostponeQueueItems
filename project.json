@@ -1,7 +1,7 @@
 {
-  "name": "SmarthisTemplateLinear",
+  "name": "PostponeQueueItems",
   "projectId": "88562b41-c27a-4319-8297-fbc986e98a90",
-  "description": "State machine template with some better defined states",
+  "description": "Aplica um postpone nos itens de fila",
   "main": "Main.xaml",
   "dependencies": {
     "Smarthis.UiPathLib": "[1.0.4]",
