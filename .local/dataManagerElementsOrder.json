@@ -32,7 +32,8 @@
       "Path": "05-Workflows/PostponeQueueItems.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "queueItems&Sequence_1"
+        "queueItems&Sequence_1",
+        "queueItem&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [
         "in_datePostpone",
